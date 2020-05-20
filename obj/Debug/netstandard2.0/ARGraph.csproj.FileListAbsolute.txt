@@ -1,0 +1,9 @@
+F:\Move from E Drive\Documents\Visual Studio 2019\Projects\ARGraph\bin\Debug\netstandard2.0\ARGraph.deps.json
+F:\Move from E Drive\Documents\Visual Studio 2019\Projects\ARGraph\bin\Debug\netstandard2.0\ARGraph.dll
+F:\Move from E Drive\Documents\Visual Studio 2019\Projects\ARGraph\bin\Debug\netstandard2.0\ARGraph.pdb
+F:\Move from E Drive\Documents\Visual Studio 2019\Projects\ARGraph\obj\Debug\netstandard2.0\ARGraph.csprojAssemblyReference.cache
+F:\Move from E Drive\Documents\Visual Studio 2019\Projects\ARGraph\obj\Debug\netstandard2.0\ARGraph.csproj.CoreCompileInputs.cache
+F:\Move from E Drive\Documents\Visual Studio 2019\Projects\ARGraph\obj\Debug\netstandard2.0\ARGraph.AssemblyInfoInputs.cache
+F:\Move from E Drive\Documents\Visual Studio 2019\Projects\ARGraph\obj\Debug\netstandard2.0\ARGraph.AssemblyInfo.cs
+F:\Move from E Drive\Documents\Visual Studio 2019\Projects\ARGraph\obj\Debug\netstandard2.0\ARGraph.dll
+F:\Move from E Drive\Documents\Visual Studio 2019\Projects\ARGraph\obj\Debug\netstandard2.0\ARGraph.pdb
